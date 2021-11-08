@@ -19,7 +19,6 @@ namespace OOPJavista
             if ((pocetRadku == 10) && (unava < 20))
             {
                 unava++;
-                Console.WriteLine("{0}", unava);
             }
             else if (unava >= 20)
             {
